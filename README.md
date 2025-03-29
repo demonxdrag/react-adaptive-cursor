@@ -2,6 +2,8 @@
 
 Simulate iOS's iPad cursor on web elements using React.
 
+![AdaptiveCursorShowcase](./assets/video.gif)
+
 ## Installation
 
 To install the package, run:
